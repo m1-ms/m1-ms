@@ -46,5 +46,6 @@ Building backend systems, solving problems, and continuously improving through r
 </a>
 
 </p>
-## ⚡ Fun Fact
+
+### Fun Fact
 I enjoy building systems, learning new technologies, and improving every day.
