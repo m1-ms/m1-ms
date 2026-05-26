@@ -32,7 +32,7 @@ Building backend systems, solving problems, and continuously improving through r
 
 ---
 ## 🌐 Connect With me
-<p align="left">
+<p>
   
   <a href="https://github.com/m1-ms" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28"/>
