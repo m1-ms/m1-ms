@@ -33,40 +33,32 @@ Building backend systems, solving problems, and continuously improving through r
 ---
 ## 🌐 Connect With me
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/m1-ms" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28"/>
-      </a>
-    </td>
+<p align="left">
 
-    <td width="15"></td>
+  <a href="https://github.com/m1-ms" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"
+         width="28"
+         style="margin-right:14px;" />
+  </a>
 
-    <td>
-      <a href="https://linkedin.com/in/7oda2" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28"/>
-      </a>
-    </td>
+  <a href="https://linkedin.com/in/7oda2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+         width="28"
+         style="margin-right:14px;" />
+  </a>
 
-    <td width="15"></td>
+  <a href="mailto:mahmoudsliman060@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+         width="28"
+         style="margin-right:14px;" />
+  </a>
 
-    <td>
-      <a href="mailto:mahmoudsliman060@gmail.com">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28"/>
-      </a>
-    </td>
+  <a href="https://www.instagram.com/2__4ll" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
+         width="28" />
+  </a>
 
-    <td width="15"></td>
-
-    <td>
-      <a href="https://www.instagram.com/2__4ll" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+</p>
 ---
 
 ## ⚡ Fun Fact
