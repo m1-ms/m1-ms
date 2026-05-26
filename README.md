@@ -4,8 +4,6 @@
 Building backend systems, solving problems, and continuously improving through real-world projects.
 </p>
 
----
-
 ## About Me :
 * 💻 Java Backend Developer
 * 🌱 Learning advanced backend architecture & clean code
@@ -14,9 +12,7 @@ Building backend systems, solving problems, and continuously improving through r
 * 🤖 Using AI tools to improve development workflow
 * 🎯 Goal: Become a professional backend engineer
 
----
-
-## 🛠️ Languages & Tools
+##  Languages & Tools
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
@@ -30,8 +26,7 @@ Building backend systems, solving problems, and continuously improving through r
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="32"/>
 </p>
 
----
-## 🌐 Connect With me
+##  Connect With me
 
 <p align="left">
 
@@ -59,7 +54,6 @@ Building backend systems, solving problems, and continuously improving through r
   </a>
 
 </p>
----
 
 ## ⚡ Fun Fact
 I enjoy building systems, learning new technologies, and improving every day.
