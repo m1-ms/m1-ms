@@ -38,19 +38,19 @@ Building backend systems, solving problems, and continuously improving through r
   <a href="https://github.com/m1-ms" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"
          width="28"
-         style="margin-right:14px;" />
+         style="margin-right:20 px;" />
   </a>
 
   <a href="https://linkedin.com/in/7oda2" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
          width="28"
-         style="margin-right:14px;" />
+         style="margin-right:20 px;" />
   </a>
 
   <a href="mailto:mahmoudsliman060@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
          width="28"
-         style="margin-right:14px;" />
+         style="margin-right:20 px;" />
   </a>
 
   <a href="https://www.instagram.com/2__4ll" target="_blank">
