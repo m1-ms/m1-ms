@@ -32,25 +32,20 @@ Building backend systems, solving problems, and continuously improving through r
 
 ---
 ## 🌐 Connect With me
-<p>
-  
+
+<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+
   <a href="https://github.com/m1-ms" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28"/>
   </a>
-
-  &nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/7oda2" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28"/>
   </a>
 
-  &nbsp;&nbsp;
-
   <a href="mailto:mahmoudsliman060@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28"/>
   </a>
-
-  &nbsp;&nbsp;
 
   <a href="https://www.instagram.com/2__4ll" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28"/>
