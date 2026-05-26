@@ -33,22 +33,24 @@ Building backend systems, solving problems, and continuously improving through r
 ---
 
 ## 🌐 Connect With Me
-
-<a href="https://github.com/m1-ms">
-  <img src="https://cdn.simpleicons.org/github/000000/ffffff" width="35" height="35"/>
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/m1-ms">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/7oda2">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mahmoudsliman060@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="28"/>
+  </a>
+  &nbsp;&nbsp;
+<a href="https://www.instagram.com/2__4ll" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/7oda2">
-  <img src="https://cdn.simpleicons.org/linkedin/000000/ffffff" width="35" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:mahmoudsliman060@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/000000/ffffff" width="35" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/2__4ll">
-  <img src="https://cdn.simpleicons.org/instagram/000000/ffffff" width="35" height="35"/>
-</a>
+</p>
 
 ---
 
