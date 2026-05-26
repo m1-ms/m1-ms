@@ -30,25 +30,19 @@ Building backend systems, solving problems, and continuously improving through r
 <p align="left">
 
 <a href="https://github.com/m1-ms">
-<img src="https://skillicons.dev/icons?i=github&theme=light" width="32"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="28"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/7oda2">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="32"/>
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="28"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:mahmoudsliman060@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=light" width="32"/>
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="28"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://www.instagram.com/2__4ll" target="_blank" rel="noopener noreferrer">
-<img src="https://skillicons.dev/icons?i=instagram&theme=light" width="32"/>
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="28"/>
 </a>
 
 </p>
