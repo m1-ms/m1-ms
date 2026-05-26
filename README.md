@@ -33,7 +33,7 @@ Building backend systems, solving problems, and continuously improving through r
 ---
 ## 🌐 Connect With me
 
-<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+<p style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
 
   <a href="https://github.com/m1-ms" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28"/>
